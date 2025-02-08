@@ -1,3 +1,3 @@
-# Thesis-2025
+# Decoding Memory: Harnessing Neuromarketing and Machine Learning to Unveil the Science of Advertisement Recall
 
 This thesis explores the application of neuromarketing techniques to assess and predict unaided recall of advertisements using** electroencephalography** (EEG), galvanic skin response (GSR), and **audiovisual features**. Specifically, the research leverages advanced **Machine Learning models**, including **Convolutional Neural Networks with Long Short-Term Memory** (CNN+LSTM),** XGBoost**, **AdaBoost**, **Random Forest**, G**eneralized Mixed-Effect Models**, **Logistic Regressions**, and** ANOVA**. By integrating neural and physiological responses with these predictive models, the study aims to provide a data-driven framework for optimizing advertisement effectiveness, enhancing our understanding of how memory and retrieval processes are influenced by marketing stimuli.
